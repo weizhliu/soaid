@@ -1,0 +1,14 @@
+{
+  "name": "soaid",
+  "version": "1.0.1",
+  "description": "A simple command-line tool to quickly view OpenAPI/Swagger documentation in `/docs` using elements.js.",
+  "bin": {
+    "soaid": "index.js"
+  },
+  "main": "index.js",
+  "author": "weizhliu",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
